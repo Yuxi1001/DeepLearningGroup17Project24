@@ -20,4 +20,4 @@ All five models have been implemented in PyTorch and can be trained/tested on th
 
 For each model (EHRMamba and four baseline models), you only need to upload the corresponding cli_project_job_<modelName>.sh file to the HPC platform. Each script contains a unique set of hyperparameters, which can be adjusted directly within the script as needed. No additional modifications are required.
 
-
+P.S. Please find the jupyter notebook file called guidance.ipynb which can recreate the main results of our report, and the log.rar & result.rar files which are mentioned in guidance.ipynb.
